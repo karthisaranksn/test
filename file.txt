@@ -1,4 +1,6 @@
 i am working on git project
-THIS LINE IS OWNED BY DEV BRANCH
+i am changin this line again 
+to check whether merge works
+
 these two lines were added in dev branch
 i am not getting this merge conflict
