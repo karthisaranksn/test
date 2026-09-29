@@ -1,3 +1,5 @@
 i am working on git project
-THIS LINE IS OWNED BY DEV BRANCH
+not sute wht this merging is not happening
+
+totaly taking my time
 these two lines were added in dev branch
