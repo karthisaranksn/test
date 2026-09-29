@@ -1,6 +1,5 @@
 i am working on git project
 i am changin this line again 
 to check whether merge works
-
 these two lines were added in dev branch
 i am not getting this merge conflict
